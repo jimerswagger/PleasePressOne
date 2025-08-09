@@ -1,7 +1,9 @@
 Please Press 1 - Action Roguelike About Eliminating Phone Waittimes
 
 
+Players will infiltrate the wait rooms of different companies, using the keys as attacks to disconnect (kill) the other callers waiting in line.  
 
+Push forward from company to company, department to department, until you eliminate wait times for good.
 
 
 
